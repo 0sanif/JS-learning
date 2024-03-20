@@ -4,7 +4,7 @@ var accountPassword = "1234"
 accountCity ="Srinagar"
 let accountState;
 
-//accountId = 2 // Not Allowed
+//accountId = 2  Not Allowed
 accountEmail="hh@gmail.com"
 accountPassword="33244"
 accountCity="Delhi"
