@@ -1,2 +1,2 @@
 # JS-learning
-A code repo for JavScript
+A code repo for JavaScript
