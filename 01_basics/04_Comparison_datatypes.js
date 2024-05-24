@@ -17,6 +17,7 @@ console.log(isLoggedIn);
 console.log(outsideTemp);
 
 const id = Symbol('123');
-console.log(id.toString);
+console.log(id);
+
 //Reference Type/Non-Primitive----Array, Objects, Functions
 
