@@ -21,3 +21,9 @@ console.log(id);
 
 //Reference Type/Non-Primitive----Array, Objects, Functions
 
+const heroes =["Shakhtiman", "Batman", "Superman"];
+//console.log(heroes);
+let myObj={
+    name:"hitesh",
+    age:22
+}
